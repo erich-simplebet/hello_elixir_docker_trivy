@@ -73,4 +73,3 @@ jobs:
           image-ref: '.'
           github-pat: ${{ secrets.TRIVY_SBOM_TEST_SECRET }}
 
-          
