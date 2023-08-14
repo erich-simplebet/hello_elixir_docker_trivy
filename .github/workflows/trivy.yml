@@ -72,4 +72,5 @@ jobs:
           output: 'dependency-results.sbom.json'
           image-ref: '.'
           github-pat: ${{ secrets.TRIVY_SBOM_TEST }}
+
           
